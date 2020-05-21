@@ -94,7 +94,3 @@
    Representasi yang tepat memungkinkan kelas Decimal untuk melakukan perhitungan modulo dan tes persamaan yang tidak cocok untuk angka pecahan floating point biner.
    
    Modul decimal menyediakan aritmatika dengan ketelitian sebanyak yang dibutuhkan.
-
-### Working with Binary Data Record Layouts
-
-### Working with Binary Data Record Layouts
