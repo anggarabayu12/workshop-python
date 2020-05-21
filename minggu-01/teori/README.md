@@ -1,0 +1,3 @@
+# Minggu-01
+
+Python merupakan bahasa pemrograman tinggi yang dapat melakukan eksekusi sejumlah instruksi multi guna secara langsung (interpretatif) dengan metode orientasi objek (Object Oriented Programming) serta menggunakan semantik dinamis untuk memberikan tingkat keterbacaan syntax. Sebagai bahasa pemrograman tinggi, python dapat dipelajari dengan mudah karena sudah dilengkapi dengan manajemen memori otomatis (pointer). Kode python bisa memanggil oleh bahasa C, C++, dan sebaliknya juga bisa dipanggil dari bahasa lain.
